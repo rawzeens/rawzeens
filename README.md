@@ -1,5 +1,3 @@
-Certainly! Here's a version that includes inline CSS to give it a more stylish, visually modern look directly within the Markdown (as much as GitHub supports). While GitHub doesn't allow full CSS styling in README files, using some emoji, formatting, and badges can provide a clean, modern look:
-
 ---
 
 # <span style="font-size:2.5em; font-weight:bold;">👋 Hi there, I'm Muhammad Razin Hakim!</span>
