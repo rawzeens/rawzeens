@@ -8,7 +8,7 @@ Certainly! Here's a version that includes inline CSS to give it a more stylish, 
 
 <div align="center">
 
-🎉 **21 years old, but coding since I was 14** 🎉  
+🎉 **19 years old, but coding since I was 14** 🎉  
 🛠️ Passionate about crafting technology, from dynamic websites to smart IoT devices!  
 📚 Mentor for Final Year Projects (FYP) — ready to help students reach their goals.
 
