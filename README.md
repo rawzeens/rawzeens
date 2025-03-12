@@ -1,109 +1,61 @@
-# HENGKER TOOLS ☠️
-## 🚀 Advanced Exploitation & Pentest Toolkit
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Breaking+Systems+Since+2023;Where+Firewalls+Come+to+Die;Making+Sysadmins+Cry+Since+Forever;SQLi%2C+XSS%2C+RCE%2C+LFI%2C+WAF+Bypass" alt="Typing SVG" />
+
+# Muhammad Razin Hakim
+### Full Stack Developer & IoT Specialist
+
+[<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Projects-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://rawzeens-projects.rf.gd)
+
 </div>
 
-## 🔥 About HENGKER TOOLS
-🕵️ HENGKER TOOLS is what keeps security professionals employed. This digital apocalypse-in-a-box contains everything you need to make network administrators question their career choices. Perfect for ethical hackers and people who enjoy watching IT departments have collective meltdowns.
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC40&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IoT+Specialist;FYP+Mentor" alt="Typing SVG" />
+</p>
 
-⚠️ **LEGAL DISCLAIMER**: Use this for authorized testing only. We're not responsible when you end up explaining to a judge why you thought "penetration testing" your ex's social media was "ethical hacking."
+## About Me 👋
 
-## 🛠 Features
-✅ Swiss Army Knife of Digital Destruction
-✅ SQL Injection so powerful databases confess their secrets voluntarily
-✅ Reverse Shells that make backdoors look like front porches
-✅ WAF Bypasses that make security solutions cry in the corner
-✅ Multi-Threaded Scanning that hits servers like a digital tsunami
-✅ Anonymity features so good even your computer doesn't know what you're doing
-✅ Post-Exploitation tools that set up camp in systems like unwanted in-laws
+I'm a 19-year-old developer passionate about creating impactful solutions across web and IoT. With 5 years of coding experience, I specialize in:
 
-## 📂 Tools of Mass Digital Destruction
+- 🌐 Full Stack Web Development
+- 🔧 IoT Solutions & Smart Devices
+- 👨‍🏫 Final Year Project (FYP) Mentorship
 
-| Filename | Description | Status |
-|----------|-------------|--------|
-| r4flood.py | DoS tool that makes servers beg for mercy | ✅ Active |
-| r4mpnvsshell-v4.py | Reverse shell so stealthy it pays rent in the target system | ✅ Active |
-| r4shell-v1.py | Basic Web Shell (for hackers still using training wheels) | ✅ Active |
-| r4shell-v2.py | Advanced Web Shell (for when you want root with your coffee) | ✅ Active |
-| r4sq.py | SQL injector that treats database permissions as mere suggestions | ✅ Updated |
-| r4wdxs.py | XSS Scanner that finds holes you could drive a truck through | ✅ Active |
-| r4xs.py | XSS Exploiter - because why stop at finding vulnerabilities? | ✅ Updated |
+## Tech Stack 🛠️
 
-## 🚀 Installation & Usage
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 1️⃣ Prerequisites
-- Python 3.x
-- Required Libraries: requests, aiohttp, bs4, scapy, etc.
-- Recommended: Kali Linux / Parrot OS (Windows users, please close this repository and go back to playing Minesweeper)
+### Frontend Frameworks
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 💻 Install Dependencies:
-```bash
-pip install -r requirements.txt
-# Or for the truly lazy:
-pip install everything-that-will-make-firewalls-weep
-```
+### IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-%23003B6F.svg?style=for-the-badge&logo=nodemcu&logoColor=white)
 
-### 2️⃣ Running a Tool
-To execute any tool, use:
-```bash
-python3 <script_name>.py
-```
+## What I Do 🎯
 
-Example:
-```bash
-python3 r4flood.py --target "hardworking-server.com" --threads 9001
-```
+- 💻 Develop modern, responsive web applications
+- 🔌 Create innovative IoT solutions and smart devices
+- 📚 Guide students through their final year projects
+- 🚀 Turn ideas into reality through code
 
-### 3️⃣ Use Proxy & Stealth Mode
-To use Tor or HTTP proxy because you're not brave enough to use your home IP:
-```bash
-proxychains python3 r4flood.py --stealth "ninja-mode"
-```
-
-## 🔥 Usage Examples
-
-### SQL Injection Scanner
-```bash
-python3 r4sq.py --url "http://target.com/index.php?id=1" --level "database-armageddon"
-```
-
-### XSS Scanner
-```bash
-python3 r4wdxs.py --target "http://target.com/search?q=" --payloads "make-browser-scream"
-```
-
-### Reverse Shell Setup
-1️⃣ Start a listener on your machine:
-```bash
-nc -lvnp 4444
-# Then go make a sandwich, this might take a while depending on the victim's patching schedule
-```
-
-2️⃣ Upload & execute the shell:
-```bash
-python3 r4mpnvsshell-v4.py --target "http://target.com/upload/" --stealth "ghost-mode"
-```
-
-## 🛡️ Legal Disclaimer
-
-🚨 **WARNING**: This tool is strictly for educational & authorized security testing.
-
-If you use this for illegal activities, not only are you on your own, but we'll probably use your case as a "what not to do" example in our next conference talk. 🚔
-
-The creator takes NO responsibility for your poor life choices or inability to read this disclaimer.
-
-## 📬 Contact & Contributions
+## Let's Connect! 🤝
 
 <div align="center">
-[Insert contact information that will definitely not be used to trace back illegal activity]
+    
+[![Email](https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walkers2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawzeens)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-%23000000?style=for-the-badge&logo=safari&logoColor=white)](https://rawzeens-projects.rf.gd)
+
 </div>
 
-## ⭐ Support the Project
-
-If you find this toolkit useful, consider starring ⭐ this repository and contributing! Your stars help us know how many potential suspects to track when something goes horribly wrong.
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rawzeens&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
