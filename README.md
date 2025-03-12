@@ -1,61 +1,95 @@
+HENGKER TOOLS ☠️
+🚀 Advanced Exploitation & Pentest Toolkit
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Penetration+Testing+Tools;Reverse+Shell+Exploits;SQLi%2C+XSS%2C+RCE%2C+LFI%2C+WAF+Bypass" alt="Typing SVG" /> </div>
+🔥 About HENGKER TOOLS
+🕵️ HENGKER TOOLS is a powerful penetration testing toolkit designed for security professionals and ethical hackers. This suite contains exploits, scanners, reverse shells, and bypass techniques for web & network security testing.
+
+⚠️ LEGAL DISCLAIMER: This tool is for educational and authorized penetration testing only. Do not use it on unauthorized systems.
+
+🛠 Features
+✅ Multi-Tool Kit for Web & Network Penetration Testing
+✅ SQL Injection, XSS, LFI, RFI, RCE & Reverse Shells
+✅ Multi-Threaded High-Performance Scanning & Exploitation
+✅ Custom Payload Generation & WAF & AV Bypasses
+✅ Tor & Proxy Support for Anonymity
+✅ Automated Attack Chains & Post-Exploitation
+
+📂 Included Tools
+Filename	Description	Status
+r4flood.py	High-performance stress testing tool.	✅ Active
+r4mpnvsshell-v4.py	Multi-payload reverse shell (v4).	✅ Active
+r4shell-v1.py	Web Shell v1 (Basic).	✅ Active
+r4shell-v2.py	Web Shell v2 (Advanced Features).	✅ Active
+r4sq.py	SQL Injection Scanner & Exploiter.	✅ Updated
+r4wdxs.py	XSS & Web Security Scanner.	✅ Active
+r4xs.py	Cross-Site Scripting (XSS) Exploit.	✅ Updated
+🚀 Installation & Usage
+1️⃣ Prerequisites
+Python 3.x
+Required Libraries: requests, aiohttp, bs4, scapy, etc.
+Recommended: Kali Linux / Parrot OS
+💻 Install Dependencies:
+
+bash
+Copy
+pip install -r requirements.txt
+2️⃣ Running a Tool
+To execute any tool, use:
+
+bash
+Copy
+python3 <script_name>.py
+Example:
+
+bash
+Copy
+python3 r4flood.py
+3️⃣ Use Proxy & Stealth Mode
+To use Tor or an HTTP proxy for anonymous testing:
+
+bash
+Copy
+proxychains python3 r4flood.py
+🔥 Usage Examples
+SQL Injection Scanner
+bash
+Copy
+python3 r4sq.py --url "http://target.com/index.php?id=1"
+XSS Scanner
+bash
+Copy
+python3 r4wdxs.py --target "http://target.com/search?q="
+Reverse Shell Setup
+1️⃣ Start a listener on your machine:
+
+bash
+Copy
+nc -lvnp 4444
+2️⃣ Upload & execute the shell:
+
+bash
+Copy
+python3 r4mpnvsshell-v4.py --target "http://target.com/upload/"
+🛡️ Legal Disclaimer
+🚨 WARNING: This tool is strictly for educational & authorized security testing.
+If you use this for illegal activities, you’re on your own. 🚔
+The creator takes NO responsibility for misuse.
+
+📬 Contact & Contributions
 <div align="center">
 
-# Muhammad Razin Hakim
-### Full Stack Developer & IoT Specialist
 
-[<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Projects-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://rawzeens-projects.rf.gd)
 
 </div>
+⭐ Support the Project
+If you find this toolkit useful, consider starring ⭐ this repository and contributing!
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC40&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IoT+Specialist;FYP+Mentor" alt="Typing SVG" />
-</p>
-
-## About Me 👋
-
-I'm a 19-year-old developer passionate about creating impactful solutions across web and IoT. With 5 years of coding experience, I specialize in:
-
-- 🌐 Full Stack Web Development
-- 🔧 IoT Solutions & Smart Devices
-- 👨‍🏫 Final Year Project (FYP) Mentorship
-
-## Tech Stack 🛠️
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend Frameworks
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-%23003B6F.svg?style=for-the-badge&logo=nodemcu&logoColor=white)
-
-## What I Do 🎯
-
-- 💻 Develop modern, responsive web applications
-- 🔌 Create innovative IoT solutions and smart devices
-- 📚 Guide students through their final year projects
-- 🚀 Turn ideas into reality through code
-
-## Let's Connect! 🤝
-
-<div align="center">
-    
-[![Email](https://img.shields.io/badge/Email-Contact_Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walkers2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawzeens)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-%23000000?style=for-the-badge&logo=safari&logoColor=white)](https://rawzeens-projects.rf.gd)
-
-</div>
-
----
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rawzeens&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" alt="GitHub Stats" /> </div>
+🚀 HACK RESPONSIBLY. STAY ANONYMOUS. STAY SAFE. 🔥
+🕶️ NOW THIS README LOOKS CLEAN, HACKER-STYLE, AND BADASS. YOU'RE WELCOME! 😈
+🔹 WHAT'S NEW IN THIS VERSION?
+✅ Badge Elements for Clean UI
+✅ Typing Effect (SVG) for Hacker Feel
+✅ Code Blocks for Quick Execution
+✅ Interactive Contact Section
+✅ Dark-Themed GitHub Stats Integration
