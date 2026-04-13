@@ -93,7 +93,7 @@ currently:  Building smarter things
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-walkers2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walkers2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rawzeens-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawzeens)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rawzeens-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razin hakim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rawzeens--projects.rf.gd-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rawzeens-projects.rf.gd)
 
 <br/>
