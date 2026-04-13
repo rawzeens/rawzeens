@@ -3,20 +3,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00b4ff&height=200&section=header&text=Muhammad%20Razin%20Hakim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20IoT%20Specialist&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;IoT+Specialist+%F0%9F%94%A7;FYP+Mentor+%F0%9F%8E%93;5+Years+of+Coding+Experience+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;IoT+Specialist+%F0%9F%94%A7;React+%7C+Python+%7C+Kotlin+%7C+Java;Web+%2B+Mobile+%2B+Hardware+%F0%9F%94%A5;5+Years+of+Coding+Experience+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://rawzeens-projects.rf.gd">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit My Work-00ff88?style=for-the-badge&logoColor=white" />
+  <a href="https://r4xn.com/rawzeens">
+    <img src="https://img.shields.io/badge/Portfolio-Visit My Work-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:walkers2@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-Contact Me-D14836?style=for-the-badge&logoColor=white" />
+  <a href="mailto:rawzeens@r4xn.com">
+    <img src="https://img.shields.io/badge/Email-Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/rawzeens">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" />
+  <a href="https://my.linkedin.com/in/razin-hakim-406508198">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -26,15 +26,14 @@
 
 ## 👋 About Me
 
-Hey! I'm **Razin** — a 19-year-old developer from Malaysia with **5 years of coding experience**, passionate about building impactful solutions at the intersection of web and hardware.
+Hey! I'm **Razin** — a full-stack developer from Malaysia with **5 years of coding experience**, passionate about building impactful solutions across web, mobile, and hardware.
 
-I build full-stack web apps, design IoT systems for real-world problems, and mentor students through their Final Year Projects. Whether it's a smart device talking to a cloud dashboard or a web app solving an everyday problem — I'm in.
+I build full-stack web and mobile apps, design IoT systems for real-world problems, and mentor students through their Final Year Projects. Whether it's a smart device talking to a cloud dashboard or a cross-platform app — I'm in.
 
 ```yaml
 name:       Muhammad Razin Hakim
-age:        19
 location:   Malaysia 🇲🇾
-focus:      Full Stack Web · IoT · FYP Mentorship
+focus:      Full Stack Web · Mobile · IoT · FYP Mentorship
 experience: 5 years
 currently:  Building smarter things
 ```
@@ -48,9 +47,13 @@ currently:  Building smarter things
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Frontend Frameworks
+### 🎨 Frontend & Mobile Frameworks
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -66,6 +69,7 @@ currently:  Building smarter things
 | Area | Description |
 |------|-------------|
 | 💻 **Web Apps** | Build modern, responsive full-stack applications |
+| 📱 **Mobile Apps** | Develop Android apps with Kotlin & Java |
 | 🔌 **IoT Systems** | Design smart devices & hardware-software integrations |
 | 📚 **FYP Mentorship** | Guide final year students from idea to working product |
 | 🚀 **Problem Solving** | Turn real-world problems into clean, working code |
@@ -92,9 +96,9 @@ currently:  Building smarter things
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-walkers2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walkers2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rawzeens-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/razin hakim](https://my.linkedin.com/in/razin-hakim-406508198))
-[![Portfolio](https://img.shields.io/badge/Portfolio-rawzeens--projects.rf.gd-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rawzeens-projects.rf.gd)
+[![Email](https://img.shields.io/badge/Gmail-rawzeens%40r4xn.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawzeens@r4xn.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-razin--hakim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://my.linkedin.com/in/razin-hakim-406508198)
+[![Portfolio](https://img.shields.io/badge/Portfolio-r4xn.com/rawzeens-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://r4xn.com/rawzeens)
 
 <br/>
 
