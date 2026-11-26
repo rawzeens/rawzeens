@@ -175,7 +175,7 @@ filing season comes.
 
 ## 🛠️ Tech Stack
 
-| | |
+| Area | Stack |
 |---|---|
 | **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=java,spring,php,python&theme=dark" /> |
 | **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" height="48" /> |
@@ -204,7 +204,7 @@ filing season comes.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rawzeens&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00b4ff&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=rawzeens&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00b4ff&text_color=c9d1d9" height="170" />
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=rawzeens&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00b4ff&currStreakLabel=00ff88" height="170" />
 
