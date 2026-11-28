@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://r4xn.com/rawzeens">
+  <a href="https://r4xn.com/hakim">
     <img src="https://img.shields.io/badge/Portfolio-Visit My Work-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
@@ -218,7 +218,7 @@ filing season comes.
 
 [![Email](https://img.shields.io/badge/Email-rawzeens%40r4xn.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawzeens@r4xn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-razin--hakim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://my.linkedin.com/in/razin-hakim-406508198)
-[![Portfolio](https://img.shields.io/badge/Portfolio-r4xn.com/rawzeens-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://r4xn.com/rawzeens)
+[![Portfolio](https://img.shields.io/badge/Portfolio-r4xn.com/rawzeens-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://r4xn.com/hakim)
 
 <br/>
 
